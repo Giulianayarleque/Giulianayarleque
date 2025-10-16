@@ -9,9 +9,9 @@
 
 - 🚀 Actualmente trabajo como Analista NOC, donde realizo el monitoreo de la infraestructura de medios de pago en Culqi, aplicando mis conocimientos en análisis de datos para la detección temprana de incidencias y la mejora continua de los procesos.
 
--Me apasiona aprender, investigar y resolver problemas, así como trabajar en equipo, siempre basándome en una comunicación clara y efectiva.
- -🌱 Disfruto crecer profesionalmente explorando nuevas tecnologías y enfrentando nuevos retos.
- -👯 Estoy abierta a colaborar en proyectos innovadores que impulsen la creatividad y el desarrollo tecnológico.
+- Me apasiona aprender, investigar y resolver problemas, así como trabajar en equipo, siempre basándome en una comunicación clara y efectiva.
+ - 🌱 Disfruto crecer profesionalmente explorando nuevas tecnologías y enfrentando nuevos retos.
+ - 👯 Estoy abierta a colaborar en proyectos innovadores que impulsen la creatividad y el desarrollo tecnológico.
 
 ## My Skills Include
 
