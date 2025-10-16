@@ -4,15 +4,14 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
-- 🌱 I’m currently learning ...
-  - Nest.js
-  - Angular
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 💜I love streaming on twitch, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
-- 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
-- 📫 Reach out to me at: <a href="valenwerlecontacto@gmail.com">valenwerlecontacto@gmail.com</a>
+🎓 Soy egresada técnica en Desarrollo de Sistemas de Información y estoy por comenzar mis estudios universitarios en Ingeniería de Sistemas.
+-💻 Tengo experiencia en desarrollo web, fortaleciendo día a día mis habilidades tanto en front-end como en back-end.
+
+-🚀 Actualmente trabajo como Analista NOC, donde realizo el monitoreo de la infraestructura de medios de pago en Culqi, aplicando mis conocimientos en análisis de datos para la detección temprana de incidencias y la mejora continua de los procesos.
+
+-Me apasiona aprender, investigar y resolver problemas, así como trabajar en equipo, siempre basándome en una comunicación clara y efectiva.
+ -🌱 Disfruto crecer profesionalmente explorando nuevas tecnologías y enfrentando nuevos retos.
+ -👯 Estoy abierta a colaborar en proyectos innovadores que impulsen la creatividad y el desarrollo tecnológico.
 
 ## My Skills Include
 
