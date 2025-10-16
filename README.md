@@ -13,9 +13,9 @@
   - 🌱 Disfruto crecer profesionalmente explorando nuevas tecnologías y enfrentando nuevos retos.
   - 👯 Estoy abierta a colaborar en proyectos innovadores que impulsen la creatividad y el desarrollo tecnológico.
 
-## My Skills Include
+## Mis habilidades incluyen
 
-<h4> Languages </h4>
+<h4> Lenguajes </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -23,7 +23,7 @@
 </span>
 
 
-<h4> Other Tools and Technologies </h4>
+<h4> Otras herramientas y tecnologías </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
@@ -36,8 +36,7 @@
 </span>
 
 
-<h2>Github stats:</h2> 
+<h2>Estadisticas Github:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=giulianayarleque&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Giulianayarleque)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=giulianayarleque&theme=material-palenight)]([https://github.com/valentinawerle](https://github.com/Giulianayarleque))
-</div>
+[![](https://github-readme-streak-stats.herokuapp.com/?user=giulianayarleque&theme=material-palenight)](https://github.com/Giulianayarleque)
