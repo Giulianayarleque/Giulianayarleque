@@ -38,6 +38,6 @@
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=valentinawerle&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Giulianayarleque)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=valentinawerle&theme=material-palenight)]([https://github.com/valentinawerle](https://github.com/Giulianayarleque))
+[![](https://github-readme-stats.vercel.app/api?username=giulianayarleque&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Giulianayarleque)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=giulianayarleque&theme=material-palenight)]([https://github.com/valentinawerle](https://github.com/Giulianayarleque))
 </div>
