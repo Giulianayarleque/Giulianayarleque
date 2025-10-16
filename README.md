@@ -5,9 +5,9 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 🎓 Soy egresada técnica en Desarrollo de Sistemas de Información y estoy por comenzar mis estudios universitarios en Ingeniería de Sistemas.
--💻 Tengo experiencia en desarrollo web, fortaleciendo día a día mis habilidades tanto en front-end como en back-end.
+- 💻 Tengo experiencia en desarrollo web, fortaleciendo día a día mis habilidades tanto en front-end como en back-end.
 
--🚀 Actualmente trabajo como Analista NOC, donde realizo el monitoreo de la infraestructura de medios de pago en Culqi, aplicando mis conocimientos en análisis de datos para la detección temprana de incidencias y la mejora continua de los procesos.
+- 🚀 Actualmente trabajo como Analista NOC, donde realizo el monitoreo de la infraestructura de medios de pago en Culqi, aplicando mis conocimientos en análisis de datos para la detección temprana de incidencias y la mejora continua de los procesos.
 
 -Me apasiona aprender, investigar y resolver problemas, así como trabajar en equipo, siempre basándome en una comunicación clara y efectiva.
  -🌱 Disfruto crecer profesionalmente explorando nuevas tecnologías y enfrentando nuevos retos.
